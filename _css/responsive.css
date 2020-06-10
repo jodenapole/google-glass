@@ -1,0 +1,12 @@
+@media (max-width:500px) {
+
+    section #corpo{
+        width: 120vw;
+    }
+
+    aside #lateral{
+        width: 120vw;
+        padding: 0;
+    }
+
+}
